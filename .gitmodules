@@ -1,0 +1,6 @@
+[submodule "wp-content/plugins"]
+	path = wp-content/plugins
+	url = https://github.com/openplans/planningpress-plugins.git
+[submodule "wp-content/themes/planningpress"]
+	path = wp-content/themes/planningpress
+	url = https://github.com/openplans/planningpress.git
